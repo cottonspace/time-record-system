@@ -1,4 +1,4 @@
-Django>=5.0
+Django>=6.0.5
 geopy
 ics
 pytz
